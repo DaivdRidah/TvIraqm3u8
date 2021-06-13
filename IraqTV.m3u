@@ -1,0 +1,50 @@
+﻿#EXTM3U
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://imn.iq/wp-content/uploads/2018/06/imn.jpg" tvg-name="Al Iraqiya News HD"  group-title="Iraq",Al Iraqiya News HD
+https://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/imn/news2/chunks.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://imn.iq/wp-content/uploads/2018/06/imn.jpg" tvg-name="Al Iraqiya General HD"  group-title="Iraq",Al Iraqiya General HD
+https://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/imn/general2/chunks.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://www.alsumaria.tv/uploadImages/ProgramsImages/Channels-LW-1-636916940695846700.png" tvg-name="Alsumaria TV"  group-title="Iraq",Alsumaria TV
+https://cllive.itworkscdn.net/alsumariatvlive/token=nva=1622779967~dirs=1~hash=0b4023819cddf9b9c3896/sumariamob.smil/live_chunks.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="http://www.alfallujah.tv/sites/all/themes/progressive/progressive_sub/logo.png" tvg-name="Al-Fallujah TV"  group-title="Iraq",Al-Fallujah TV
+https://live-ak.vimeocdn.com/exp=1622762049~acl=%2F08d802f2-1796-41c5-b4fe-dfca823ad5da%2F%2A~hmac=2f304d3105390b89b9f6e07f325f2e46a3055e04386c7a806f78e712ef1ec5f9/08d802f2-1796-41c5-b4fe-dfca823ad5da/chunklist_b3256000.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://babylontv.net/wp-content/themes/babylontv/images/logo.png" tvg-name="Babylon TV"  group-title="Iraq",Babylon TV
+https://iqlivestream.com/live/babylontv/index.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://www.dijlah.tv/templates/default-2/images/dlogo.png" tvg-name="Dijlah TV"  group-title="Iraq",Dijlah TV
+https://stream-03.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmjSBUOjimyYEylPV-CeP9T4)/dm/3/x7x328h/d/live-3.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://www.alhurra.com/themes/custom/voa/images/sites_logos/logo_Al_Hurra.png" tvg-name="Alhurra"  group-title="Iraq",Alhurra
+https://cdnapisec.kaltura.com/p/2610081/sp/2610081/playManifest/entryId/0_8mto76xi/deliveryProfileId/672/protocol/https/format/applehttp/master_2596.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhTGLG1FAredEB27tQGOyz96lnCzvpkJslsMH4RQQ=s176-c-k-c0x00ffffff-no-rj" tvg-name="Alhurra Iraq"  group-title="Iraq",Alhurra Iraq
+https://cdnapisec.kaltura.com/p/2610081/sp/2610081/playManifest/entryId/0_1ig29b4t/deliveryProfileId/672/protocol/https/format/applehttp/master_2596.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/Al_Sharqiya.png" tvg-name="AL SHAQRIYA LIVE"  group-title="Iraq",AL SHAQRIYA LIVE
+https://5d94523502c2d.streamlock.net/home/mystream/chunklist_w1066586297.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/Al_Sharqiya.png" tvg-name="AL SHARQIYA NEWS LIVE"  group-title="Iraq",AL SHARQIYA NEWS LIVE
+https://5d94523502c2d.streamlock.net/alsharqiyalive/mystream/chunklist_w57796014.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="http://cpweb.ettehadlive.com/cpweblogin/uploads/aletehad_tvs/logo/3.png" tvg-name="Al Ahad TV"  group-title="Iraq",Al Ahad TV
+https://601246d26b133.streamlock.net/live/_definst_/7/chunklist_w645064906.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="http://cpweb.ettehadlive.com/cpweblogin/uploads/aletehad_tvs/logo/10.png" tvg-name="Karbala TV"  group-title="Iraq",Karbala TV
+https://601246d26b133.streamlock.net/live/_definst_/60/chunklist_w1757584583.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://kurdistantv.net/sites/default/files/ktv-logo-hd-01.png" tvg-name="Kurdistan TV"  group-title="Iraq",Kurdistan TV
+https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/chunklist_w993789500_b1700000_sleng_t64MTA4MHA=.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="http://hala-tv.com/images/hala_logo.png" tvg-name="Hala TV"  group-title="Israel",Hala TV
+https://gstream4.panet.co.il/edge/halaTV/playlist.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://www.kan.org.il/images/logo_kan.png" tvg-name="Kan 11"  group-title="Israel",Kan 11
+https://stream-03.sv4.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl5zeEWvKOS0QxTQjZ9RRC68)/dm/3/x7wjmog/s/live-4.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://media.reshet.tv/image/upload/q_auto:good/v1611070742/assets/reshet-logo.png" tvg-name="Channel 13 (Reshet 13)"  group-title="Israel",Channel 13 (Reshet 13)
+https://dai.google.com/linear/hls/pa/event/fDTiATvlRXuRyf_Wy-cOkw/stream/6e385449-3688-4141-a960-9bb10a6d2fda:CBF2/variant/c9775e8baf87283b1154606d7aa54de8/bandwidth/1726727.m3u8
+
